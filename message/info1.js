@@ -9,24 +9,24 @@ return`
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
 *│▸* Image : Gawr Gura
-*│▸* Voice : Nina kawai
+*│▸* Voice : Feyy
 *│*
 *│▸* SCRIPT BY
 *│*   Decode Denpa
-*│*   X-Dev Team
-*│*   Yogi PW
-*│*   Hexagon
-*│*   Dttaz
+*│*   Infern3
+*│*   Youmern
+*│*   Hex-HD
+*│*   DizDert
 *│*
 *│▸* FEATURE  BY  
-*│*   Decode Denpa
-*│*   Fernazer
-*│*   X-Dev Team
-*│*   Resta Gamteng
-*│*   Zeeone Ofc
-*│*   X-Dev Team
-*│*   Yudha perdana
-*│*   Xchilds
+*│*   DizDert
+*│*   Feyy
+*│*   BloodD
+*│*   FOPL GC
+*│*   Holly Wings
+*│*   Infern3
+*│*   Youmern
+*│*   Gerome
 *│*
 *╰────────────[*`
 }
